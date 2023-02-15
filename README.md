@@ -17,12 +17,12 @@ Figma used to design th UI/UX Screens
 
 .
 
-![PicsArt_02-14-10 18 47](https://user-images.githubusercontent.com/24944117/218862249-b49bcc05-a1cb-4520-b7fa-e12b48ec9243.png)
-![PicsArt_02-14-10 19 14](https://user-images.githubusercontent.com/24944117/218862286-41c03b69-b42a-47a0-8afb-f5a8b08a52f7.png)
-![PicsArt_02-14-10 19 59](https://user-images.githubusercontent.com/24944117/218862339-5210cf86-a026-43fe-b9fe-528c84023ea8.png)
+![PicsArt_02-14-10 21 01](https://user-images.githubusercontent.com/24944117/218862258-7148b0ed-28f8-487c-b893-3169e9e98653.png)
+![PicsArt_02-15-09 52 12](https://user-images.githubusercontent.com/24944117/218967922-af41339c-b64b-43d9-aaf3-5ff9296e3b4d.png)
+![PicsArt_02-15-09 52 28](https://user-images.githubusercontent.com/24944117/218968094-7b80279e-26e3-430b-9ae2-bc3a9ed65c3a.png)
 
 .
 
-![PicsArt_02-14-10 21 01](https://user-images.githubusercontent.com/24944117/218862258-7148b0ed-28f8-487c-b893-3169e9e98653.png)
 ![PicsArt_02-14-10 20 29](https://user-images.githubusercontent.com/24944117/218862327-2fb41376-6cd5-49ed-a15e-e109cd7e2bbb.png)
 ![PicsArt_02-14-10 21 33](https://user-images.githubusercontent.com/24944117/218862336-8862aeb1-f504-49be-8e78-add4d9b382dd.png)
+![PicsArt_02-15-09 52 45](https://user-images.githubusercontent.com/24944117/218967697-35ec26bd-ef1a-4f2d-ac3d-8c29d44ac975.png)
